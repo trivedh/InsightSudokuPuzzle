@@ -1,5 +1,4 @@
 InsightSudokuPuzzle
-===================
 The program takes  sudoku puzzle input as a csv file and gives the solved puzzle out put in a csv file.
 input.csv
 0	3	5	2	9	0	8	6	4
