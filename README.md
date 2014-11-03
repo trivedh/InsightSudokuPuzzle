@@ -1,6 +1,7 @@
-InsightSudokuPuzzle
-The program takes  sudoku puzzle input as a csv file and gives the solved puzzle out put in a csv file.
+The program takes  sudoku puzzle input as a csv file and gives the solved puzzle out put as a csv file.
+
 input.csv
+
 0	3	5	2	9	0	8	6	4
 0	8	2	4	1	0	7	0	3
 7	6	4	3	8	0	0	9	0
@@ -12,6 +13,7 @@ input.csv
 8	0	0	9	0	0	5	2	6
 
 output.csv
+
 1	3	5	2	9	7	8	6	4
 9	8	2	4	1	6	7	5	3
 7	6	4	3	8	5	1	9	2
